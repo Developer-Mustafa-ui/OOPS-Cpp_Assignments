@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+ 
 class MyString {
 private:
 	char* str;

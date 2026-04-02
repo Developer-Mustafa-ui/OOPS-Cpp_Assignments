@@ -5,7 +5,7 @@
 This project file implements a `Rational` class in C++ for representing and manipulating rational numbers (fractions) with automatic normalization.
 
 ## Features
-
+ 
 - Numerator and denominator storage
 - Denominator validation to prevent zero values
 - Automatic sign correction so denominator stays positive
